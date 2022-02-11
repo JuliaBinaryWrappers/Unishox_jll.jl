@@ -1,143 +1,143 @@
 [[Unishox]]
 arch = "aarch64"
-git-tree-sha1 = "6f3f977af36c5b79d0b400c511acddbbd9783463"
+git-tree-sha1 = "ea5baa6b7be25736d93f224ed4143fd9843674c6"
 os = "macos"
 
     [[Unishox.download]]
-    sha256 = "7625ccacf3dfdfe5078b70baa32f3bcc68197a96e483498fb9cf55c1361d4bcd"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "64ae980fd944d65f785a0fb124cded8f44bd84bfdd2db39f146337157a34bd46"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.aarch64-apple-darwin.tar.gz"
 [[Unishox]]
 arch = "aarch64"
-git-tree-sha1 = "685bcd8a711e4905cd505d2377ed481ffeea57fc"
+git-tree-sha1 = "80fef1e821f96e76238414f2101414e2ab2201b4"
 libc = "glibc"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "c83f1b2f755a7756c8ff168e77de65186da1d24e48c2a827dfed8db23ac2d595"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "94f0be0854c8207575f45f9f4453d775120448464fdd18f79157f86888c2a6a8"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.aarch64-linux-gnu.tar.gz"
 [[Unishox]]
 arch = "aarch64"
-git-tree-sha1 = "e1bfb156871b28153785439fceb0655c524b5d5e"
+git-tree-sha1 = "d87fe8f334750cf19c0e7b5c1c8d352073464b42"
 libc = "musl"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "20d35a1d88d39a1490572ce7822b7be136ce522d9be5cfc7d4448ffa30b92738"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.aarch64-linux-musl.tar.gz"
+    sha256 = "010a17ffcbbb63f8fa378e16a658b7f2ec999efaef9bc555de07017fcea36c84"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.aarch64-linux-musl.tar.gz"
 [[Unishox]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9f9c1b5d09e8ea5b42fcf6ab2f0e7d66a54be1d1"
+git-tree-sha1 = "4ca5afe0e57dea81ebc55784121e1c2d7be3e3e9"
 libc = "glibc"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "6b0bdc003d4b7c4031f4376d01688cffe8a03fb5ec2d6f6372641308b53f2110"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "ee546a782e790bc242dde985cb0948db8ca2270fbed3ae84a2302992ef45c49b"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.armv6l-linux-gnueabihf.tar.gz"
 [[Unishox]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "520f48cb45fa2dd9a08d18c2e7880a2f6c3f0ae3"
+git-tree-sha1 = "6ed123825b24d9bb26ad056d890331475b8a1538"
 libc = "musl"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "98da5d032015fb05c2ed835c48c3acf2c843c31903525a484a9e6bc2881ccd98"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "92b696df5eb8dab803ab729f7eea5638813c2a8b8c49b7d61eae045ab4c5926b"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.armv6l-linux-musleabihf.tar.gz"
 [[Unishox]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e1a4f9e89ea325cf6080a0c58ebb49fe22b4eda1"
+git-tree-sha1 = "f7432b812adeb7c3b77c2bfcef435dce35407197"
 libc = "glibc"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "b266e1966a480e6b5e5aa0f35c5f36443106803e343b9bd5b229eef7fa30b733"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "018d71a843f226e1b488b0f3222e9e678704ddf4dca324956b87ced6e65232f1"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.armv7l-linux-gnueabihf.tar.gz"
 [[Unishox]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a73f263dac6bdff1af1a945951c42a9d194034f6"
+git-tree-sha1 = "f7e11de9189cc6ffa435375dc734aabf6d8c21f6"
 libc = "musl"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "668cf60d8057afa6042aaed7fd4117ba69f86640d4ca2288dde6934e0d69ac5b"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "62529461544e95a11873a76e803ec93ba4511e076fad42187d4e5549c33c32ed"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.armv7l-linux-musleabihf.tar.gz"
 [[Unishox]]
 arch = "i686"
-git-tree-sha1 = "dd20b5d626db13c2e08346f826aef94768c95b85"
+git-tree-sha1 = "26b72910b76d4897888257a8d74543a4c4015d4c"
 libc = "glibc"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "b42534833616751812797ff9febb124b0ebe3f1272e5e5836634c185feff4175"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.i686-linux-gnu.tar.gz"
+    sha256 = "933336fb519a6b14abdd9ae402967da38462944acfc160befef2348ebdf0b493"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.i686-linux-gnu.tar.gz"
 [[Unishox]]
 arch = "i686"
-git-tree-sha1 = "2bde773779a877d7249c60ffa1b87ebb521b9f2e"
+git-tree-sha1 = "418aea1c9e275af94f61d98c1f5554edf6f2d658"
 libc = "musl"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "9709c59f0ff38175a2238e017fd58ea394d4cdc62064999c359febb3fb87a5cb"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.i686-linux-musl.tar.gz"
+    sha256 = "e5480daaf8c4f7c916e203a4aeda50220cfab71ee3e6dd74a942c1ce912c7dab"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.i686-linux-musl.tar.gz"
 [[Unishox]]
 arch = "i686"
-git-tree-sha1 = "02d611cdf1012038204d84c13785fbc1b7554a20"
+git-tree-sha1 = "db810a4a95fbfc0921133a531c2ba478cfee6ab2"
 os = "windows"
 
     [[Unishox.download]]
-    sha256 = "9f8d4512f0f696dcb915f78c1a5eb3de1bf8e8476e4bbce56e0b2119bc30aa0e"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.i686-w64-mingw32.tar.gz"
+    sha256 = "c0a7f237b1811932a5850a6b165fd60fefcae9a6a1e562a087c3bffa53b54a4d"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.i686-w64-mingw32.tar.gz"
 [[Unishox]]
 arch = "powerpc64le"
-git-tree-sha1 = "f2c151acb728f6e791e4a66b6cbe9d61d2bc49a7"
+git-tree-sha1 = "0bbf5ba65feb0d072eeaf0fe5ae3e95373b8b24a"
 libc = "glibc"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "577d0e0beb624ad245cb0dddcb2e7dd4ce1ecb2d9da18a4d7644989b6fe2df7b"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "4695cf4570f20613ddd27f337bbf14371f4ad6a65f5e884fdf377a77357d376b"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.powerpc64le-linux-gnu.tar.gz"
 [[Unishox]]
 arch = "x86_64"
-git-tree-sha1 = "ef619487a87edd6baec49a1612da34373fdf91c4"
+git-tree-sha1 = "4fc6ae1a1873345b58b88f59f9c607088a7de22b"
 os = "macos"
 
     [[Unishox.download]]
-    sha256 = "a983b9602e49e4d32db87bc8efebb739c57047f7ac805b0776fbe7a0e386b571"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "69a30258527e1daaa5e4c60de58204e55d8d9c848a93c43720b2e787c370cef8"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.x86_64-apple-darwin.tar.gz"
 [[Unishox]]
 arch = "x86_64"
-git-tree-sha1 = "72eb01f6925858ba70b0643f3fbcca1129d06f77"
+git-tree-sha1 = "1f8e49b164239c8d384706d583b3631cb6015cad"
 libc = "glibc"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "1db9804289fb92e0cb91c6cdb8a664dc6669c166d858b3ed58a76f4d433737b0"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "14e85217feb6537ab8c0ae00ae969f90576e5d58967c0fa6b28ebac4430be034"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.x86_64-linux-gnu.tar.gz"
 [[Unishox]]
 arch = "x86_64"
-git-tree-sha1 = "354a017ff7a699415a47100bca6e03355d768a1a"
+git-tree-sha1 = "8e5ec58a8d24deb16099ab751f96f68e64410d47"
 libc = "musl"
 os = "linux"
 
     [[Unishox.download]]
-    sha256 = "90e8d15ca9ee78fce67e9c7cb3373199ad3499a2f6b7fd418b5b1e73123f69cd"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.x86_64-linux-musl.tar.gz"
+    sha256 = "b414d95768ec8605cabca8a7900e63c501c1b96de935bdfb521f02e6f027eb39"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.x86_64-linux-musl.tar.gz"
 [[Unishox]]
 arch = "x86_64"
-git-tree-sha1 = "d34679da8ec823857ea4fdd9354be88310d40b89"
+git-tree-sha1 = "1e808b13d50edcff5ce2873fa379254270e0738f"
 os = "freebsd"
 
     [[Unishox.download]]
-    sha256 = "a17bbb3dc1eb0ba7a7bf5fded1eaa2201385015d8338422425396ecb3a7ab0b8"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0f1d671333de731f04191a8dcf9d97a0d829fe3d88e072c49d9ef119cc931aed"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.x86_64-unknown-freebsd.tar.gz"
 [[Unishox]]
 arch = "x86_64"
-git-tree-sha1 = "b9fafef0cb8bfc4e4c4a2a5747686a558f9a47fc"
+git-tree-sha1 = "c59b9d9be2a3fc7e56dd62312d4fede540981d17"
 os = "windows"
 
     [[Unishox.download]]
-    sha256 = "b74b4752c154cc122c3d1cf1cbdd4a48c4eb5c6c257a2fc2caf8172bb329cb0d"
-    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.0+0/Unishox.v1.0.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "2f8f8244f2472beaee25b8be34bc43fe8cdc21c676a5226cf60c44b2845dc9cb"
+    url = "https://github.com/JuliaBinaryWrappers/Unishox_jll.jl/releases/download/Unishox-v1.0.2+0/Unishox.v1.0.2.x86_64-w64-mingw32.tar.gz"
